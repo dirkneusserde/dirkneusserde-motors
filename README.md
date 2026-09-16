@@ -1,7 +1,7 @@
-# DIRKNEUSSERDE MOTORS V5 — SELF-CONTAINED
+# DIRKNEUSSERDE MOTORS V6
+Static GitHub Pages website. No npm/build required.
 
-GitHub Pages emergency-safe build.
+Upload every file in this folder to the repository root, then publish:
+Settings → Pages → Deploy from a branch → main → /(root).
 
-Upload `index.html` directly to the repository root. All vehicle and hero imagery, CSS and JavaScript are embedded inside that single file, so there are no image paths, assets folders, stylesheets or script files to break.
-
-Vehicle specifications are concept/demo figures.
+Vehicle names/specifications shown are concept/demo content until final production data is confirmed.
