@@ -1,17 +1,7 @@
-# DIRKNEUSSERDE MOTORS V4 — FLAT GITHUB PAGES BUILD
+# DIRKNEUSSERDE MOTORS V5 — SELF-CONTAINED
 
-This build is intentionally FLAT. Every required file is in the repository root.
+GitHub Pages emergency-safe build.
 
-Upload ALL extracted files directly to the root of your GitHub repository:
-- index.html
-- styles.css
-- script.js
-- hero.jpg
-- d1.jpg
-- d5.jpg
-- dx.jpg
-- e1.jpg
+Upload `index.html` directly to the repository root. All vehicle and hero imagery, CSS and JavaScript are embedded inside that single file, so there are no image paths, assets folders, stylesheets or script files to break.
 
-There is NO assets folder in V4.
-
-Vehicle specifications shown on the site are concept/demo figures and should be replaced with verified production data before commercial use.
+Vehicle specifications are concept/demo figures.
