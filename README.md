@@ -1,16 +1,8 @@
-# DIRKNEUSSERDE MOTORS
+# DIRKNEUSSERDE MOTORS V2
 
-Official concept website for the DIRKNEUSSERDE automotive brand.
+Static GitHub Pages automotive concept website.
 
-**ENGINEERED TO MOVE.**
+## Upload
+Upload **the contents of this folder** directly to the repository root. Then enable GitHub Pages from `main` / `(root)`.
 
-## GitHub Pages
-Upload all files/folders to the repository root. Then use Settings → Pages → Deploy from a branch → main → /(root).
-
-## Concept lineup
-- D1 — Performance Sports Car
-- D5 — Performance Sedan
-- DX — Performance SUV
-- E1 — Electric Performance
-
-This is a fictional/concept automotive brand website. Vehicle specifications, imagery and claims are illustrative until replaced by real production information.
+No npm, build process, or external image hosting required. All images are local in `assets/`.

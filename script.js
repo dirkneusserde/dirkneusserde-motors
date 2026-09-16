@@ -1,1 +1,1 @@
-document.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{const old=b.textContent;b.textContent='COMING SOON';setTimeout(()=>b.textContent=old,1300)}));
+document.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{const old=b.textContent;b.textContent='COMING SOON';setTimeout(()=>b.textContent=old,1200)}));
