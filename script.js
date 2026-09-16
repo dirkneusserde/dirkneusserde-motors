@@ -1,1 +1,1 @@
-document.querySelectorAll('button').forEach(b=>b.addEventListener('click',()=>{const old=b.textContent;b.textContent='COMING SOON';setTimeout(()=>b.textContent=old,1200)}));
+document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener('click',e=>{const t=document.querySelector(a.getAttribute('href'));if(t){e.preventDefault();t.scrollIntoView({behavior:'smooth'})}}));

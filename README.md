@@ -1,8 +1,8 @@
-# DIRKNEUSSERDE MOTORS V2
+# DIRKNEUSSERDE MOTORS V3
 
-Static GitHub Pages automotive concept website.
+Static GitHub Pages website. No build tools or npm required.
 
-## Upload
-Upload **the contents of this folder** directly to the repository root. Then enable GitHub Pages from `main` / `(root)`.
+Upload `index.html`, `styles.css`, `script.js` and the complete `assets` folder to the repository root.
 
-No npm, build process, or external image hosting required. All images are local in `assets/`.
+V3 fixes the previous empty vehicle cards by shipping every image locally inside `assets/`.
+Vehicle names, specifications and figures are concept/demo content and should be replaced with final production data before commercial use.
