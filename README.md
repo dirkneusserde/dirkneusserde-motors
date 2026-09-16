@@ -1,8 +1,17 @@
-# DIRKNEUSSERDE MOTORS V3
+# DIRKNEUSSERDE MOTORS V4 — FLAT GITHUB PAGES BUILD
 
-Static GitHub Pages website. No build tools or npm required.
+This build is intentionally FLAT. Every required file is in the repository root.
 
-Upload `index.html`, `styles.css`, `script.js` and the complete `assets` folder to the repository root.
+Upload ALL extracted files directly to the root of your GitHub repository:
+- index.html
+- styles.css
+- script.js
+- hero.jpg
+- d1.jpg
+- d5.jpg
+- dx.jpg
+- e1.jpg
 
-V3 fixes the previous empty vehicle cards by shipping every image locally inside `assets/`.
-Vehicle names, specifications and figures are concept/demo content and should be replaced with final production data before commercial use.
+There is NO assets folder in V4.
+
+Vehicle specifications shown on the site are concept/demo figures and should be replaced with verified production data before commercial use.
